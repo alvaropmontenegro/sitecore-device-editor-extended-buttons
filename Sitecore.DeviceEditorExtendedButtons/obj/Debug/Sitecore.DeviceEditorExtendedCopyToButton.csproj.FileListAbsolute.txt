@@ -1,0 +1,12 @@
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\bin\Debug\Sitecore.DeviceEditorExtendedCopyToButton.dll
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\bin\Debug\Sitecore.DeviceEditorExtendedCopyToButton.pdb
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\bin\Debug\Sitecore.Client.dll
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\bin\Debug\Sitecore.Kernel.dll
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\bin\Debug\Sitecore.Client.xml
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\bin\Debug\Sitecore.Kernel.xml
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\obj\Debug\Sitecore.DeviceEditorExtendedCopyToButton.csproj.AssemblyReference.cache
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\obj\Debug\Sitecore.DeviceEditorExtendedCopyToButton.csproj.CoreCompileInputs.cache
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\obj\Debug\Sitecore.DeviceEditorExtendedCopyToButton.csproj.CopyComplete
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\obj\Debug\Sitecore.DeviceEditorExtendedCopyToButton.dll
+C:\Dev\Sitecore\ExtendedDeviceEditorButton\Sitecore.DeviceEditorExtendedCopyToButton\obj\Debug\Sitecore.DeviceEditorExtendedCopyToButton.pdb
