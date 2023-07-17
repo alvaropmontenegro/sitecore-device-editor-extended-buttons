@@ -1,0 +1,1 @@
+# sitecore-device-editor-extended-buttons
